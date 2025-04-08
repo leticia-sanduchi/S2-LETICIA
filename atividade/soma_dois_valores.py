@@ -4,3 +4,8 @@ num1=int(input("Digite o primeiro valor: "))
 num2=int(input ("Digite o segundo valor: "))
 soma=num1+num2
 if soma>20:
+    subtracao= num1-num2-8
+    print("A sua subtração é: ", soma)
+elif soma<=20:
+    subtração=num1-num2-5
+    print("A sua subtração é: ", soma)
